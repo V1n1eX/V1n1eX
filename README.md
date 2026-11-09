@@ -1,73 +1,89 @@
-## 🚀 Featured Projects
+# Hi, I'm Vincent 👋
+
+Software developer focused on building reliable, scalable, and user-friendly digital products. I enjoy turning ideas into working solutions using Python, Django, C, C++, Java, and modern web technologies.
+
+## About Me
+
+- Full-stack and software engineering enthusiast
+- Interested in cybersecurity, intelligent systems, and practical problem solving
+- Passionate about clean architecture, maintainable code, and thoughtful user experiences
+- Always learning and building projects that mix technical depth with real-world value
+
+## Featured Projects
 
 ### 🛡️ Viniex Defender
-A cybersecurity-focused desktop security application designed to provide intelligent threat detection and protection features, with an emphasis on performance, usability, and secure software engineering.
+Cybersecurity-focused desktop security application for intelligent threat detection and protection.
 
-**Tech:** C++ • Qt Framework • .NET • Windows Development
-
----
+- Tech: C++ • Qt Framework • .NET • Windows Development
+- Repository: https://github.com/V1n1eX/Viniex-Defender
 
 ### 🔍 Phishing Website Detection System
-A machine learning-based system designed to detect malicious websites by analyzing URL features and identifying potential phishing threats.
+Machine learning-based phishing detection project focused on identifying malicious websites through URL analysis.
 
-**Tech:** Python • Machine Learning • Scikit-learn • Django
-
----
+- Tech: Python • Machine Learning • Scikit-learn • Django
+- Repository: https://github.com/V1n1eX/phishing-website-detector
 
 ### ☁️ Cloud Notes Application
-A secure cloud-based note management system featuring authentication, folder organization, search, sharing, and intelligent note management.
+Secure cloud note management platform with authentication, organization, search, and sharing features.
 
-**Tech:** Django • Python • SQLite • PostgreSQL
-
----
+- Tech: Django • Python • SQLite • PostgreSQL
+- Repository: https://github.com/V1n1eX/cloud-notes-web-app
 
 ### 🔐 Password Strength Assessment Tool
-A privacy-first password strength assessment tool and academic portfolio.
+Privacy-first password assessment tool with an academic portfolio focus.
 
-**Tech:** HTML
-
-[View repository](https://github.com/V1n1eX/password-strength-assessment-tool)
-
----
+- Tech: HTML
+- Repository: https://github.com/V1n1eX/password-strength-assessment-tool
 
 ### 💳 Fake Online Transaction Detection
-A class project demonstrating how decision trees can be used to detect fake online transactions.
+Decision-tree-based project demonstrating how machine learning can be used to identify fraudulent online transactions.
 
-**Tech:** Python • Decision Trees
-
-[View repository](https://github.com/V1n1eX/Fake-Online-Transaction-Detection-Using-Decision-Trees)
-
----
+- Tech: Python • Decision Trees
+- Repository: https://github.com/V1n1eX/Fake-Online-Transaction-Detection-Using-Decision-Trees
 
 ### 🎨 Ckayz Designs
-A website for a graphic designer.
+A website project for a graphic designer brand.
 
-**Tech:** CSS
-
-[View repository](https://github.com/V1n1eX/ckayzdesigns)
-
----
+- Tech: CSS
+- Repository: https://github.com/V1n1eX/ckayzdesigns
 
 ### 📡 The Last Signal
-An experimental web project imagining a world where the web has collapsed and only one site remains.
+A speculative web experience imagining a future where the internet has collapsed and only one site remains.
 
-**Tech:** CSS
-
-[View repository](https://github.com/V1n1eX/the-last-signal)
-
----
+- Tech: CSS
+- Repository: https://github.com/V1n1eX/the-last-signal
 
 ### 🔗 toLinks
-A web platform for creating personalized mini landing pages and managing digital profiles.
+Personalized mini landing page platform for managing digital profiles.
 
-**Tech:** Django • Python • HTML • CSS • JavaScript
+- Tech: Django • Python • HTML • CSS • JavaScript
+- Repository: https://github.com/V1n1eX/toLinks
+
+## Tech Stack
+
+- Languages: Python, Java, C, C++, JavaScript, HTML, CSS, SQL
+- Frameworks & Libraries: Django, Scikit-learn, Qt, Bootstrap
+- Tools: Git, GitHub, VS Code, Figma, SQLite, PostgreSQL
+
+## Current Focus
+
+- Building practical software solutions with real-world impact
+- Exploring cybersecurity, AI-powered applications, and full-stack engineering
+- Improving my development workflow and product thinking
+
+## GitHub Highlights
+
+- Open to software engineering, web development, and problem-solving opportunities
+- Always building projects that combine creativity, logic, and usability
+
+## Random Facts
+
+- ☕ I write code, break code, debug code... then somehow fix it.
+- 🧠 My hidden talent is turning rough ideas into working software.
+- 🐛 Bugs fear me... until they don't.
+- ⚡ Every problem has a solution, sometimes it just needs more coffee and a better approach.
+- 🚀 I’m constantly turning ideas into working products.
 
 ---
 
-## 🤖 Random Facts
-
-- ☕ I write code, break code, debug code... then somehow fix it.
-- 🧠 My hidden talent: writing prompts that make AI understand what I mean (most of the time 😅).
-- 🐛 Bugs fear me... until they don't.
-- ⚡ I believe every problem has a solution — sometimes it just needs more coffee and an AI agent 😂.
-- 🚀 Currently transforming ideas into working software.
+"Code is not just logic; it's creativity, structure, and problem-solving."
